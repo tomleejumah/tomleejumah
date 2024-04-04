@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Tomlee Jumah's stats](https://github-readme-stats.vercel.app/api?username=tomleejumah&hide=stars&show_icons=true&theme=radical)](https://github.com/tomleejumah/github-readme-stats)
+[![Tomlee Jumah's stats](https://github-readme-stats.vercel.app/api?username=tomleejumah&hide=stars&show_icons=true&theme=transparent)](https://github.com/tomleejumah/github-readme-stats)
 <!--
 **tomleejumah/tomleejumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
