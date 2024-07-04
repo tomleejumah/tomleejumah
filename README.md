@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomleejumah&theme=transparent&hide_progress=true)](https://github.com/tomleejumah/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tomleejumah)](https://git.io/streak-stats)
+
 
 <!--
 [![Tomlee Jumah stats](https://github-readme-stats.vercel.app/api?username=tomleejumah&hide=stars&show_icons=true&theme=transparent)](https://github.com/tomleejumah/github-readme-stats)
