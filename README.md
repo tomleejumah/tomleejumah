@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=tomleejumah&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomleejumah&theme=transparent&hide_progress=true)](https://github.com/tomleejumah/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com?user=tomleejumah&theme=highcontrast&mode=weekly&card_width=305&card_height=155)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomleejumah&theme=transparent&hide_progress=true)](https://github.com/tomleejumah/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com?user=tomleejumah&theme=highcontrast&mode=weekly&card_width=305&card_height=130)](https://git.io/streak-stats)
 
 
 
