@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 [![](https://visitcount.itsvg.in/api?id=tomleejumah&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
