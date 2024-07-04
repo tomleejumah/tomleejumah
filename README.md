@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomleejumah&theme=transparent&hide_progress=true)](https://github.com/tomleejumah/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tomleejumah&theme=highcontrast&hide_border=true&mode=weekly&card_width=340&card_height=155)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tomleejumah&theme=highcontrast&hide_border=true&mode=weekly&card_width=300&card_height=155)](https://git.io/streak-stats)
 
 
 <!--
