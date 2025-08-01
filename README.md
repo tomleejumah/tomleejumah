@@ -1,7 +1,9 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomleejumah&theme=transparent&hide_progress=true)](https://github.com/tomleejumah/github-readme-stats) 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tomleejumah&theme=transparent&mode=weekly&card_width=305&card_height=130)](https://git.io/streak-stats) 
+[![Tomlee Jumah stats](https://github-readme-stats.vercel.app/api?username=tomleejumah&hide=stars&show_icons=true&theme=transparent)](https://github.com/tomleejumah/github-readme-stats)
+**tomleejumah/tomleejumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!--
 [![](https://visitcount.itsvg.in/api?id=tomleejumah&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
