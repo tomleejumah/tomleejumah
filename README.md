@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Analytics Suite
+<!-- ## Analytics Suite
 
 <div align="start" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
 
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
   </div>
 
 </div>
+-->
